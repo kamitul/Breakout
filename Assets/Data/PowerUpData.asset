@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b38ae277f1f0c8e4594e82744f043c92, type: 3}
+  m_Name: PowerUpData
+  m_EditorClassIdentifier: 
+  powerUpData:
+  - Propability: 10
+    LootType: 1
+  - Propability: 10
+    LootType: 2
+  - Propability: 10
+    LootType: 3
+  - Propability: 3
+    LootType: 4
+  - Propability: 5
+    LootType: 5
+  - Propability: 5
+    LootType: 6
+  - Propability: 0
+    LootType: 0

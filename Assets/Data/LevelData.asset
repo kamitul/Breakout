@@ -1,0 +1,117 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 23027f39e39a4ab49a55d93fbac3bd38, type: 3}
+  m_Name: LevelData
+  m_EditorClassIdentifier: 
+  levelsData:
+  - LevelID: 0
+    MapShapes: 0000000003000000
+    MapDimession:
+      mapWidth: 5
+      mapHeight: 5
+    Radius: 0
+  - LevelID: 1
+    MapShapes: 0000000003000000
+    MapDimession:
+      mapWidth: 6
+      mapHeight: 6
+    Radius: 0
+  - LevelID: 2
+    MapShapes: 0000000003000000
+    MapDimession:
+      mapWidth: 6
+      mapHeight: 5
+    Radius: 0
+  - LevelID: 3
+    MapShapes: 0000000003000000
+    MapDimession:
+      mapWidth: 6
+      mapHeight: 6
+    Radius: 0
+  - LevelID: 4
+    MapShapes: 0000000003000000
+    MapDimession:
+      mapWidth: 6
+      mapHeight: 7
+    Radius: 0
+  - LevelID: 5
+    MapShapes: 0000000003000000
+    MapDimession:
+      mapWidth: 7
+      mapHeight: 6
+    Radius: 0
+  - LevelID: 6
+    MapShapes: 01000000
+    MapDimession:
+      mapWidth: 9
+      mapHeight: 5
+    Radius: 0
+  - LevelID: 7
+    MapShapes: 01000000
+    MapDimession:
+      mapWidth: 14
+      mapHeight: 6
+    Radius: 0
+  - LevelID: 8
+    MapShapes: 02000000
+    MapDimession:
+      mapWidth: 0
+      mapHeight: 0
+    Radius: 5
+  - LevelID: 9
+    MapShapes: 04000000
+    MapDimession:
+      mapWidth: 12
+      mapHeight: 7
+    Radius: 0
+  - LevelID: 10
+    MapShapes: 02000000
+    MapDimession:
+      mapWidth: 0
+      mapHeight: 0
+    Radius: 3
+  - LevelID: 11
+    MapShapes: 02000000
+    MapDimession:
+      mapWidth: 0
+      mapHeight: 0
+    Radius: 4
+  - LevelID: 12
+    MapShapes: 0100000002000000
+    MapDimession:
+      mapWidth: 10
+      mapHeight: 10
+    Radius: 5
+  - LevelID: 13
+    MapShapes: 0000000004000000
+    MapDimession:
+      mapWidth: 15
+      mapHeight: 8
+    Radius: 0
+  - LevelID: 14
+    MapShapes: 0000000004000000
+    MapDimession:
+      mapWidth: 20
+      mapHeight: 8
+    Radius: 0
+  - LevelID: 15
+    MapShapes: 04000000
+    MapDimession:
+      mapWidth: 20
+      mapHeight: 8
+    Radius: 0
+  - LevelID: 16
+    MapShapes: 04000000
+    MapDimession:
+      mapWidth: 20
+      mapHeight: 10
+    Radius: 0
