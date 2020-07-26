@@ -9,3 +9,7 @@ Simple Breakout Unity game
 - High scores
 - Player boosters
 
+# Some screenshots
+![Alt text](Media/ark.gif?raw=true)
+
+
